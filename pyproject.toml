@@ -4,6 +4,7 @@ version = "0.0.0"
 description = "Accessing external data sources."
 authors = [
     "Dan Saattrup Nielsen <dan.nielsen@alexandra.dk>",
+    "Anders Jess Pedersen <anders.j.pedersen@alexandra.dk>",
 ]
 readme = "README.md"
 license = "MIT"
