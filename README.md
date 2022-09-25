@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/alexandrainst/AIAI-data/main/gfx/aiai-data-logo.png" width="auto" height="224">
 </div>
 
-### Deployment and monitoring of machine learning models.
+### Accessing external data sources.
 ##### _(pronounced as in "Aye aye captain")_
 
 ______________________________________________________________________
